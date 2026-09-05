@@ -81,7 +81,7 @@ The dataset contains sales-related information including:
 
 ## 🖼️ Dashboard Preview
 
-![Sales Performance Dashboard](sales-dashboard.png)
+![Sales Performance Dashboard](screenshots/sales-dashboard.png)
 
 ## 📁 Project Structure
 
@@ -91,4 +91,5 @@ sales-performance-tableau-dashboard/
 ├── 📊 Sales_Performance_Dashboard.twbx
 ├── 📄 README.md
 │
-└── 🖼️ sales-dashboard.png
+└── 📁 screenshots/
+    └── 🖼️ sales-dashboard.png
